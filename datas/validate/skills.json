@@ -1,0 +1,9 @@
+{
+    "skills" : [
+        {
+        "year" : "integer",
+        "name" : "string"
+        
+        }
+    ]
+}
