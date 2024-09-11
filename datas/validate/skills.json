@@ -1,8 +1,8 @@
 {
     "skills" : [
         {
-        "year" : "integer",
-        "name" : "string"
+        "year" : "2024",
+        "name" : "Développeur Java"
         
         }
     ]
